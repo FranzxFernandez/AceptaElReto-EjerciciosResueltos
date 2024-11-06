@@ -10,3 +10,5 @@
 313 | Fin de mes | [Link](https://github.com/FranzxFernandez/AceptaElReto-EjerciciosResueltos/blob/main/ejercicios/Fin%20de%20mes/main.c)
 362 | El día de Navidad | [Link](https://github.com/FranzxFernandez/AceptaElReto-EjerciciosResueltos/blob/main/ejercicios/El%20d%C3%ADa%20de%20Navidad/main.c)
 635 | Cinquecento | [Link](https://github.com/FranzxFernandez/AceptaElReto-EjerciciosResueltos/blob/main/ejercicios/Cinquecento/main.c)
+<br>
+Si este repositorio te fue útil, considera apoyarme con una estrella.
